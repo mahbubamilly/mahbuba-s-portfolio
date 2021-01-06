@@ -21,7 +21,7 @@ h1{
     padding-left: 2%;
 }
 .half-widh img{
-    width: 100%;
+    max-width 100% ;
     height: auto;
 }
 section{
